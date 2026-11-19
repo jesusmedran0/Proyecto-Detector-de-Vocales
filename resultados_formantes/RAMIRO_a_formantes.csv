@@ -1,0 +1,2 @@
+﻿archivo,hablante,vocal,repeticion,fs,inicio_frame_s,duracion_frame_s,orden_lpc,F1_Hz,B1_Hz,F2_Hz,B2_Hz,F3_Hz,B3_Hz,numero_candidatos
+RAMIRO_a_rep01_20261112_173256.npz,RAMIRO,a,1,16000,0.8,0.03,16,800.1744585009983,278.04401648166527,1480.336670868459,378.66737221174066,4995.334039877421,343.296866439301,3
